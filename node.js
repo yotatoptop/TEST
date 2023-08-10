@@ -6,7 +6,7 @@ var username = 'o_0frag';
 var password = 'ProNoob4ik18s';
 var shared_secret = '';
 
-var games = [570];
+var games = [570, 730];
 var status = 1;
 
 
